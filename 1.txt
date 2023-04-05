@@ -1,4 +1,4 @@
 text 2 
 +stroka
 -ctroka
-
+файл изменен new
